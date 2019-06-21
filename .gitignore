@@ -1,0 +1,9 @@
+*.class
+/bin
+/target/
+/.classpath
+/.project
+/.settings
+/.git
+/.idea
+/test-output/
